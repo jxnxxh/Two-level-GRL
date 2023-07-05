@@ -1,7 +1,7 @@
 # Two-Level Graph Representation Learning with Community-as-a-Node Graphs
 
 
-This paper has been submitted for publication in SIGMOD 2024.
+This paper has been submitted for publication in ICDM 2023.
 
 ![](fig.png)
 
