@@ -110,7 +110,7 @@ We use Intel Xeon Silver 4210R 20-core CPU @ 2.40 GHz and 32 GB RAM running on U
 
 ## Reproducing the results
 
-All codes are all run inside [Jupyter notebooks](http://jupyter.org/) yet in the `codes` folder.
+All needed codes are in the `codes` folder.
 
 We will update by creating python scripts to automate our proposed model soon. 
 
